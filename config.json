@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "variant": "A",
+  "gather": 2,
+  "gatherSeconds": 15,
+  "storageCap": 20,
+  "upgradeCost": 30,
+  "upgradeGather": 3,
+  "lighthouseCost": 100,
+  "minOrders": 3,
+  "adMultiplier": 1.5,
+  "adSeconds": 30,
+  "adCooldown": 60,
+  "adCap": 3,
+  "orders": [
+    {
+      "id": "O01",
+      "name": "第一份补给",
+      "wood": 2,
+      "fish": 0,
+      "coins": 20
+    },
+    {
+      "id": "O02",
+      "name": "渔夫的午餐",
+      "wood": 2,
+      "fish": 2,
+      "coins": 35
+    },
+    {
+      "id": "O03",
+      "name": "灯塔物资",
+      "wood": 4,
+      "fish": 3,
+      "coins": 60
+    },
+    {
+      "id": "O04",
+      "name": "远航准备",
+      "wood": 3,
+      "fish": 3,
+      "coins": 45
+    },
+    {
+      "id": "O05",
+      "name": "邻岛来信",
+      "wood": 4,
+      "fish": 4,
+      "coins": 60
+    },
+    {
+      "id": "O06",
+      "name": "最后一班船",
+      "wood": 5,
+      "fish": 5,
+      "coins": 75
+    }
+  ]
+}
